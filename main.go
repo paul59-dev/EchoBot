@@ -17,8 +17,8 @@ import (
 var Sess *discordgo.Session
 var Err error
 
-var Entrees_id = "1147588275570233344"
-var Sorties_id = "1147588295031795822"
+var Entrees_id = "your_id"
+var Sorties_id = "yout_id"
 
 func main() {
 	// Chargez les variables d'environnement à partir du fichier .env
